@@ -1,3 +1,5 @@
+# Warning to Pelock: By DMCA-ing this repository, you agree to be sued for civil damages for making an invalid claim - don't do it.
+
 # Dowód Rejestracyjny Pojazdu - decompression
 
 [![Build Status](https://secure.travis-ci.org/dex4er/drpdecompress.svg)](http://travis-ci.org/dex4er/drpdecompress)
